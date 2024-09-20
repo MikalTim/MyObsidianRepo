@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Typewriter",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "Calibri",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "nativeMenus": false
+}

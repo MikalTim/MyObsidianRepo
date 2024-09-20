@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "69400c223d3bc1af",
+    "type": "split",
+    "children": [
+      {
+        "id": "f621fe831ac1ed39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d711e7da898d602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7769ceb543c9137f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b190a0b574d29b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba06d485becad96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "428e1efe68e61b4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cfee7c25cb70e3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "dfc448d194fafada",
+    "type": "split",
+    "children": [
+      {
+        "id": "1380d0bda4281510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa11cd83ec1d5d18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5182a922a7ad713c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b81c281ad88b9a63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e067f44ee316ece9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "4ba06d485becad96",
+  "lastOpenFiles": [
+    "Git/React Course/Key Takeaways/Advanced Redux.md",
+    "Git/README.md",
+    "Git",
+    "Git/React Course/Rough Notes/Rough Notes.md",
+    "Pasted image 20240913100040.png",
+    "Pasted image 20240913093003.png",
+    "Git/React Course/Key Takeaways/Redux.md",
+    "Git/React Course/Rough Notes/Quick Notes.md",
+    "Git/React Course/Key Takeaways/Setup.md",
+    "Git/React Course/React - The Complete Guide.md",
+    "Pasted image 20240909135424.png",
+    "Pasted image 20240906164257.png",
+    "Untitled.png",
+    "Untitled 1.png",
+    "Pasted image 20240906155701.png",
+    "Git/React Course/Key Takeaways/Connecting to a Database.md",
+    "Git/React Course/Key Takeaways/Working with Forms.md",
+    "Pasted image 20240905153115.png",
+    "Pasted image 20240905153112.png",
+    "Pasted image 20240905154835.png",
+    "Git/React Course/Key Takeaways/Dynamic Content and State.md",
+    "Git/React Course/Key Takeaways/React Hooks.md",
+    "Git/React Course/Key Takeaways/React Props.md",
+    "Git/React Course/Key Takeaways/Project File structure.md",
+    "Git/React Course/Key Takeaways/Building Custom Hooks.md",
+    "Pasted.md",
+    "Git/React Course/Key Takeaways/Optimizing React.md",
+    "Git/React Course/Key Takeaways/React (behind the hood).md",
+    "Git/React Course/Key Takeaways/Class Based Components.md",
+    "Git/React Course/Key Takeaways/Error Boundaries.md",
+    "Git/React Course/Key Takeaways/useEffect.md",
+    "Git/React Course/Key Takeaways/useReducer.md",
+    "Git/React Course/Key Takeaways/Context API.md",
+    "Git/React Course/Key Takeaways/Refs and Portals.md",
+    "Bently_Descartes/Point Cloud Ground Extraction.md",
+    "Bently_Descartes",
+    "Steering Wheel/Product Planning.md",
+    "Steering Wheel",
+    "Git/React Course/Key Takeaways/CSS in React.md",
+    "Personal Notes",
+    "Python Notes/Rough Notes",
+    "Python Notes",
+    "Free PBX/Rough Notes",
+    "Free PBX",
+    "Git/React Course",
+    "2. Tags",
+    "Untitled.canvas"
+  ]
+}
